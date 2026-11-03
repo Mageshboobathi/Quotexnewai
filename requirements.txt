@@ -1,0 +1,1 @@
+streamlit>=1.37.0\npandas>=2.0.0\nnumpy>=1.24.0\nplotly>=5.18.0\nrequests>=2.31.0\nwebsocket-client>=1.8.0\nstreamlit-autorefresh>=1.0.1\n
